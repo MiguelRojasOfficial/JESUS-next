@@ -1,6 +1,6 @@
 # JESUS-next
 
-Un [descripción breve de tu proyecto, por ejemplo: sitio web personal, blog, portafolio de ejemplo, etc.] construido con Next.js, Tailwind CSS y TypeScript.
+Construido con Next.js, Tailwind CSS y TypeScript.
 
 ## Características
 
